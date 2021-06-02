@@ -1,1 +1,1 @@
-# This repository for my homework amd any to Andersen DevOps course.
+# This repository for my homework and any to Andersen DevOps course.
